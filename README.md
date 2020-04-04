@@ -12,7 +12,7 @@ Simulator outcomes are produced in terms of performance metrics of the direction
 - Several useful utility functions.
 
 ## Papers
-If you use SimPatico, please cite our Elsevier paper. Here is a suitable BibTeX entry:
+If you use SimPatico, please cite our Elsevier paper (**the simulator will be made publicly available after confirmation of publication of this article**). Here is a suitable BibTeX entry:
 
 ```python
 @inproceedings{andre2020,
@@ -23,18 +23,20 @@ If you use SimPatico, please cite our Elsevier paper. Here is a suitable BibTeX 
 }
 ```
 
-
 ## Academic works
+- Paper: SimPatico: Simulation Tool for the Analysis of TDOA Methods - submitted to AEU International Journal of Electronics and Communications (**the simulator will be made publicly available after confirmation of publication of this article**);
+- Paper: Robust time delay estimation based on non-Gaussian impulsive acoustic channel, submitted to JOURNAL OF COMMUNICATION AND INFORMATION SYSTEMS;
 - PhD Dissertation: DANILO DE SANTANA PENA, Localização baseada em Sinais Acústicos sujeitos a Ruído Impulsivo (2019) - Federal University of Rio Grande do Norte;
 - Master Thesis: MÁRIO GUILHERME FLORES FIGUEREDO, Desempenho de algoritmos de localização de sinais de áudio sujeitos a ruído impulsivo  (2019) - Federal University of Rio Grande do Norte; 
 Listar os artigos publicados (ou submetidos)
-- Paper: Robust time delay estimation based on non-Gaussian impulsive acoustic channel, submitted to JOURNAL OF COMMUNICATION AND INFORMATION SYSTEMS;
+
 
 
 ## People
 - Danilo Pena (main developer)
 - Daniel Flor (contributor)
 - André Diniz (contributor)
+- Mario Figueredo (contributor)
 - Vicente Sousa (advisor)
 - Allan Medeiros (advisor)
 
