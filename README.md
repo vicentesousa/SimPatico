@@ -11,7 +11,7 @@ Simulator outcomes are produced in terms of performance metrics of the direction
 - Functions to save the results and plots.
 - Several useful utility functions.
 
-![directories](https://i.ibb.co/71r6Cjc/direction-of-arrival-v0-3-0.png)
+![directories](https://i.ibb.co/71r6Cjc/direction-of-arrival-v0-3-0.png  =100x20)
 
 ## Papers
 If you use SimPatico, please cite our Elsevier paper. Here is a suitable BibTeX entry:
@@ -31,7 +31,6 @@ If you use SimPatico, please cite our Elsevier paper. Here is a suitable BibTeX 
 - Master Thesis: MÁRIO GUILHERME FLORES FIGUEREDO, Desempenho de algoritmos de localização de sinais de áudio sujeitos a ruído impulsivo  (2019) - Federal University of Rio Grande do Norte; 
 Listar os artigos publicados (ou submetidos)
 - Paper: Robust time delay estimation based on non-Gaussian impulsive acoustic channel, submitted to JOURNAL OF COMMUNICATION AND INFORMATION SYSTEMS;
-- Paper: 
 
 
 ## People
