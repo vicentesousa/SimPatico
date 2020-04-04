@@ -18,8 +18,8 @@ If you use SimPatico, please cite our Elsevier paper. Here is a suitable BibTeX 
 
 @inproceedings{andre2020,
   title = {{Simulation Tool for the Analysis of TDOA Methods}},
-  author = {André B. de F. Diniz, Danilo S. Pena and Vicente~A.~de Sousa~Jr.}
-  booktitle = {Vicente~A.~de Sousa~Jr.},
+  author = {André B. de F. Diniz, Danilo S. Pena and Vicente A. de Sousa Jr.}
+  booktitle = {AEU - International Journal of Electronics and Communications},
   year = {2020}
 }
 
