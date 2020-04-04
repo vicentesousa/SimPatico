@@ -27,9 +27,12 @@ If you use SimPatico, please cite our Elsevier paper. Here is a suitable BibTeX 
 
 
 ## Academic works
-- Listar os artigos publicados (ou submetidos)
-- Listar a dissertação do Mário
-- Listar a tese do Danilo
+- PhD Dissertation: DANILO DE SANTANA PENA, Localização baseada em Sinais Acústicos sujeitos a Ruído Impulsivo (2019) - Federal University of Rio Grande do Norte;
+- Master Thesis: MÁRIO GUILHERME FLORES FIGUEREDO, Desempenho de algoritmos de localização de sinais de áudio sujeitos a ruído impulsivo  (2019) - Federal University of Rio Grande do Norte; 
+Listar os artigos publicados (ou submetidos)
+- Paper: Robust time delay estimation based on non-Gaussian impulsive acoustic channel, submitted to JOURNAL OF COMMUNICATION AND INFORMATION SYSTEMS;
+- Paper: 
+
 
 ## People
 - Danilo Pena (main developer)
