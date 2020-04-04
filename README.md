@@ -11,8 +11,6 @@ Simulator outcomes are produced in terms of performance metrics of the direction
 - Functions to save the results and plots.
 - Several useful utility functions.
 
-![directories](https://i.ibb.co/71r6Cjc/direction-of-arrival-v0-3-0.png  =100x20)
-
 ## Papers
 If you use SimPatico, please cite our Elsevier paper. Here is a suitable BibTeX entry:
 
