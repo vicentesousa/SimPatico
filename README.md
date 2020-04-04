@@ -16,17 +16,15 @@ Simulator outcomes are produced in terms of performance metrics of the direction
 ## Papers
 If you use SimPatico, please cite our Elsevier paper. Here is a suitable BibTeX entry:
 
+```python
 @inproceedings{andre2020,
-
   title = {{Simulation Tool for the Analysis of TDOA Methods}},
-
   author = {André B. de F. Diniz, Danilo S. Pena and Vicente A. de Sousa Jr.}
-  
   booktitle = {AEU - International Journal of Electronics and Communications},
-  
   year = {2020}
-
 }
+```
+
 
 ## Academic works
 - Listar os artigos publicados (ou submetidos)
