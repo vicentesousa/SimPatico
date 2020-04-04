@@ -1,5 +1,5 @@
 # Welcome to SimPatico: Simulation Tool for the Analysis of TDOA
-Simulation PlAtform for PosiTIon LoCatiOn evaluation (SimPatico) contains a variety of TDOA methods, including angle of arrival (AoA) and robust algorithms that are not scope of this work. There are also degradation models for gaussian and non-gaussian channels such as GMM and S\alphaS processes. It is possible to evaluate synthetic and real data.
+Simulation PlAtform for PosiTIon LoCatiOn evaluation (SimPatico) contains a variety of TDOA methods, including angle of arrival (AoA) and robust algorithms that are not scope of this work. There are also degradation models for gaussian and non-gaussian channels such as GMM and S $\alpha$ S processes. It is possible to evaluate synthetic and real data.
 
 Simulator outcomes are produced in terms of performance metrics of the direction of arrival (DoA) algorithms and they are saved in data files and plots.
 
@@ -29,8 +29,6 @@ If you use SimPatico, please cite our Elsevier paper (**the simulator will be ma
 - PhD Dissertation: DANILO DE SANTANA PENA, Localização baseada em Sinais Acústicos sujeitos a Ruído Impulsivo (2019) - Federal University of Rio Grande do Norte;
 - Master Thesis: MÁRIO GUILHERME FLORES FIGUEREDO, Desempenho de algoritmos de localização de sinais de áudio sujeitos a ruído impulsivo  (2019) - Federal University of Rio Grande do Norte; 
 Listar os artigos publicados (ou submetidos)
-
-
 
 ## People
 - Danilo Pena (main developer)
