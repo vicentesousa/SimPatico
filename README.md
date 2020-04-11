@@ -18,7 +18,7 @@ If you use SimPatico, please cite our Elsevier paper (**the simulator will be ma
 @inproceedings{andre2020,
   title = {{Simulation Tool for the Analysis of TDOA Methods}},
   author = {André B. de F. Diniz, Danilo S. Pena and Vicente A. de Sousa Jr.}
-  booktitle = {AEU - International Journal of Electronics and Communications},
+  booktitle = {Journal Simulation Modelling Practice and Theory},
   year = {2020}
 }
 ```
