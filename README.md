@@ -11,7 +11,7 @@ Simulator outcomes are produced in terms of performance metrics of the direction
 - Functions to save the results and plots.
 - Several useful utility functions.
 
-## Papers
+## Citation
 If you use SimPatico, please cite our Elsevier paper (**The simulator will be made publicly available after that we have received the acceptance of this publication.**). Here is a suitable BibTeX entry:
 
 ```python
