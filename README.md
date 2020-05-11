@@ -24,7 +24,7 @@ If you use SimPatico, please cite our Elsevier paper (**The simulator will be ma
 ```
 
 ## Academic works
-- Paper: SimPatico: Simulation Tool for the Analysis of TDOA Methods - submitted to Annals of Telecommunications (**The simulator will be made publicly available after that we have received the acceptance of this publication.**);
+- Paper: SimPatico: Simulation Tool for the Analysis of TDOA Methods - submitted to Annals of Telecommunications (**The simulator will be made publicly available after that we have received the acceptance of this publication**);
 - Paper: Robust time delay estimation based on non-Gaussian impulsive acoustic channel, submitted to JOURNAL OF COMMUNICATION AND INFORMATION SYSTEMS;
 - PhD Dissertation: DANILO DE SANTANA PENA, Localização baseada em Sinais Acústicos sujeitos a Ruído Impulsivo (2019) - Federal University of Rio Grande do Norte;
 - Master Thesis: MÁRIO GUILHERME FLORES FIGUEREDO, Desempenho de algoritmos de localização de sinais de áudio sujeitos a ruído impulsivo  (2019) - Federal University of Rio Grande do Norte; 
