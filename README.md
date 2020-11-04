@@ -25,16 +25,16 @@ If you use SimPatico, please cite our Elsevier paper for TDOA purposes (**The mo
 
 ```python
 @inproceedings{mario2020,
-  title = {{Performance Analysis of DOA Methods over Impulsive Noise based on Gaussian Mixture Model}},
+  title = {{Análise de Desempenho de Métodos de DOA sujeitos a Modelos de Ruído Impulsivo com Misturas Gaussinas}},
   author = {Mário G. F. Figueredo, Danilo de S. Pena, Carlos A. de Lima Filho, Matheus F. de S. Dória, Allan de M. Martins, Vicente A. de Sousa Jr.}
-  booktitle = {IEEE Latin America Transactions},
+  booktitle = {Brazilian Journals Publicações},
   year = {2020}
 }
 ```
 
 ## Academic works
 - Paper: SimPatico: Simulation Tool for the Analysis of TDOA Methods - submitted to Annals of Telecommunications (**The simulator will be made publicly available after that we have received the acceptance of this publication**);
-- Paper: Performance Analysis of DOA Methods over Impulsive Noise based on Gaussian Mixture Model, submmited to IEEE Latin America Transactions;
+- Book chapter: Análise de Desempenho de Métodos de DOA sujeitos a Modelos de Ruído Impulsivo com Misturas Gaussinas, to appear in Brazilian Journals Publicações;
 - Paper: Robust time delay estimation based on non-Gaussian impulsive acoustic channel, in JOURNAL OF COMMUNICATION AND INFORMATION SYSTEMS (DOI: [https://doi.org/10.14209/jcis.2020.9](https://doi.org/10.14209/jcis.2020.9));
 - PhD Dissertation: DANILO DE SANTANA PENA, Localização baseada em Sinais Acústicos sujeitos a Ruído Impulsivo (2019) - Federal University of Rio Grande do Norte;
 - Master Thesis: MÁRIO GUILHERME FLORES FIGUEREDO, Desempenho de algoritmos de localização de sinais de áudio sujeitos a ruído impulsivo  (2019) - Federal University of Rio Grande do Norte; 
