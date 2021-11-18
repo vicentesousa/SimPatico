@@ -34,7 +34,6 @@ If you use SimPatico, please cite our IPIN paper for TDOA purposes (**The module
 ```
 
 ## Academic works
-- Paper: SimPatico: Simulation Tool for the Analysis of TDOA Methods - submitted to Annals of Telecommunications (**The simulator will be made publicly available after that we have received the acceptance of this publication**);
 - Book chapter: Análise de Desempenho de Métodos de DOA sujeitos a Modelos de Ruído Impulsivo com Misturas Gaussinas, to appear in Brazilian Journals Publicações;
 - Paper: Robust time delay estimation based on non-Gaussian impulsive acoustic channel, in JOURNAL OF COMMUNICATION AND INFORMATION SYSTEMS (DOI: [https://doi.org/10.14209/jcis.2020.9](https://doi.org/10.14209/jcis.2020.9));
 - PhD Dissertation: DANILO DE SANTANA PENA, Localização baseada em Sinais Acústicos sujeitos a Ruído Impulsivo (2019) - Federal University of Rio Grande do Norte;
