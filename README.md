@@ -12,7 +12,7 @@ Simulator outcomes are produced in terms of performance metrics of the direction
 - Several useful utility functions.
 
 ## Citation
-If you use SimPatico, please cite our Elsevier paper for TDOA purposes (**The module for TDOA will be made publicly available after that we have received the acceptance of this publication.**) and our IEEE LAtin America paper for DOA purposes (**The module for DOA will be made publicly available after that we have received the acceptance of this publication.**). Here is a suitable BibTeX entry:
+If you use SimPatico, please cite our IPIN paper for TDOA purposes (**The module for TDOA will be made publicly available after that we have received the acceptance of this publication.**) and our Brazilian Journals Publicações paper for DOA purposes (**The module for DOA will be made publicly available after that we have received the acceptance of this publication.**). Here is a suitable BibTeX entry:
 
 ```python
 @inproceedings{andre2021,
@@ -28,6 +28,7 @@ If you use SimPatico, please cite our Elsevier paper for TDOA purposes (**The mo
   title = {{Análise de Desempenho de Métodos de DOA sujeitos a Modelos de Ruído Impulsivo com Misturas Gaussinas}},
   author = {Mário G. F. Figueredo, Danilo de S. Pena, Carlos A. de Lima Filho, Matheus F. de S. Dória, Allan de M. Martins, Vicente A. de Sousa Jr.}
   booktitle = {Brazilian Journals Publicações},
+  url={https://doi.org/10.35587/brj.ed.0000606}
   year = {2020}
 }
 ```
