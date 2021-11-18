@@ -15,11 +15,11 @@ Simulator outcomes are produced in terms of performance metrics of the direction
 If you use SimPatico, please cite our Elsevier paper for TDOA purposes (**The module for TDOA will be made publicly available after that we have received the acceptance of this publication.**) and our IEEE LAtin America paper for DOA purposes (**The module for DOA will be made publicly available after that we have received the acceptance of this publication.**). Here is a suitable BibTeX entry:
 
 ```python
-@inproceedings{andre2020,
-  title = {{Simulation Tool for the Analysis of TDOA Methods}},
+@inproceedings{andre2021,
+  title = {{A Simulation Tool for the Analysis of TDOA Methods}},
   author = {André B. de F. Diniz and Danilo S. Pena and Vicente A. de Sousa Jr.}
-  booktitle = {Annals of Telecommunications},
-  year = {2020}
+  booktitle = {11th International Conference On Indoor Positioning And Indoor Navigation, IPIN 2021},
+  year = {2021}
 }
 ```
 
